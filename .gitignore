@@ -1,0 +1,9 @@
+Debug/
+Release/
+.metadata/
+*.launch
+*.o
+*.d
+*.elf
+*.map
+*.su
